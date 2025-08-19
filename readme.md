@@ -57,4 +57,4 @@ This project predicts the likelihood of heart disease using a **stacked ensemble
 - Accuracy Score  
 - Confusion Matrix  
 - ROC Curve & AUC on the test set  
-- *(Optional)* Calibration plots / Feature importance (if supported)
+- Calibration plots / Feature importance 
